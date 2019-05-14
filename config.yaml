@@ -1,6 +1,10 @@
 parentPomVersion: 0.0.2-SNAPSHOT
-sdkVersion: 1.11.533
+sdkVersion: 1.11.551
 modules:
+ -
+  name: cloudfront
+  classPrefix: AmazonCloudFront
+  serviceName: CloudFront
  -
   name: cloudwatch
   classPrefix: AmazonCloudWatch
