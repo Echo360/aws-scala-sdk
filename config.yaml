@@ -1,5 +1,5 @@
 parentPomVersion: 0.0.2-SNAPSHOT
-sdkVersion: 1.11.551
+sdkVersion: 1.11.808
 modules:
  -
   name: cloudfront
